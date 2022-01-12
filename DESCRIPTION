@@ -2,11 +2,11 @@ Package: corecrabe
 Title: An Amazing Shiny App
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
+    person(given = "Herinomena",
+           family = "ANDRIAMASINORO",
            role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
+           email = "a.herinomena11@gmail.com")
+Description: What the package does (one paragraph).Developement d'une application shiny pour corecrabe
 License: What license is it under?
 Imports: 
     config (>= 0.3.1),
